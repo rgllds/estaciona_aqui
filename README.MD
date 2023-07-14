@@ -30,7 +30,6 @@
     <img src="https://i.imgur.com/YfHzGmX.jpg" alt="Logo" height="100">
   </a>
   <h1 align="center">ESTACIONA AQUI</h1>
-  <p align="center">
 
 
 
