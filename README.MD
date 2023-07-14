@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.imgur.com/YfHzGmX.jpg" alt="Logo" height="300">
+    <img src="https://i.imgur.com/YfHzGmX.jpg" alt="Logo" height="100">
   </a>
   <h1 align="center">ESTACIONA AQUI</h1>
   <p align="center">
