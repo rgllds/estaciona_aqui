@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://imgur.com/YfHzGmX" alt="Logo" height="200">
+    <img src="https://i.imgur.com/YfHzGmX.jpg" alt="Logo" height="300">
   </a>
   <h1 align="center">ESTACIONA AQUI</h1>
   <p align="center">
@@ -40,7 +40,7 @@
 
 O ESTACIONA AQUI é um projeto de aplicação que se propõe a organizar o estacionamento da sede principal da Justiça Federal do Ceará (JFCE). Ele foi construído visando a simplicidade, a praticidade no uso e a facilidade de aprendizado. Abaixo, uma das telas desenvolvidas para o aplicativo :}
 
-<a><img src="https://imgur.com/MBl8cuI" alt="Tela" height="400"></a>
+<a><img src="https://i.imgur.com/MBl8cuI.jpg" alt="Tela" height="400"></a>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
