@@ -25,12 +25,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://i.imgur.com/YfHzGmX.jpg" alt="Logo" height="100">
   </a>
   <h1 align="center">ESTACIONA AQUI</h1>
-
 
 
 
