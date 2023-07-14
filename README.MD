@@ -113,10 +113,10 @@ Distribuído sob uma "MIT License". Veja `LICENSE` para mais informações.
 ## Equipe
 Este foi um projeto desenvolvido pela equipe Terror do Trânsito, formada para a disciplina de Projeto I no semestre 2023.1 do curso de Sistemas e Mídias Digitais na Universidade Federal do Ceará. Abaixo, uma foto dos membros que compõem a equipe. Passe o mouse por cima de cada foto para ver o nome :)
 
-<img src="https://imgur.com/MRCrGvr" alt="Davi Girão de Sousa Barbosa Oliveira" height="200">
-<img src="https://imgur.com/8Nc2R2N" alt="Kelvin Erick Barros Rocha" height="200">
-<img src="https://imgur.com/E61H9Ak" alt="Larissa Santos Rodrigues" height="200">
-<img src="https://imgur.com/xY9BArg" alt="Pedro Arruda de Oliveira" height="200">
+<img src="https://i.imgur.com/MRCrGvr.jpg" alt="Davi Girão de Sousa Barbosa Oliveira" height="200">
+<img src="https://i.imgur.com/8Nc2R2N.jpg" alt="Kelvin Erick Barros Rocha" height="200">
+<img src="https://i.imgur.com/E61H9Ak.jpg" alt="Larissa Santos Rodrigues" height="200">
+<img src="https://i.imgur.com/xY9BArg.jpg" alt="Pedro Arruda de Oliveira" height="200">
 <img src="https://i.imgur.com/5Y9Xcvl.jpg" alt="Rebeka Giovanna Leite Lima de Souza" height="200">
 
 
