@@ -29,7 +29,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
   </a>
   <h1 align="center">
-<img src="https://i.imgur.com/YfHzGmX.jpg" alt="Logo" height="100">
+<img src="https://i.imgur.com/YfHzGmX.jpg" alt="Logo" height="100"><br/>
 ESTACIONA AQUI</h1>
 
 
