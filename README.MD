@@ -117,7 +117,7 @@ Este foi um projeto desenvolvido pela equipe Terror do Trânsito, formada para a
 <img src="https://imgur.com/8Nc2R2N" alt="Kelvin Erick Barros Rocha" height="200">
 <img src="https://imgur.com/E61H9Ak" alt="Larissa Santos Rodrigues" height="200">
 <img src="https://imgur.com/xY9BArg" alt="Pedro Arruda de Oliveira" height="200">
-<img src="https://imgur.com/5Y9Xcvl" alt="Rebeka Giovanna Leite Lima de Souza" height="200">
+<img src="https://i.imgur.com/5Y9Xcvl.jpg" alt="Rebeka Giovanna Leite Lima de Souza" height="200">
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
