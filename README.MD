@@ -39,7 +39,7 @@ ESTACIONA AQUI</h1>
 
 O ESTACIONA AQUI é um projeto de aplicação que se propõe a organizar o estacionamento da sede principal da Justiça Federal do Ceará (JFCE). Ele foi construído visando a simplicidade, a praticidade no uso e a facilidade de aprendizado. Abaixo, uma das telas desenvolvidas para o aplicativo :}
 
-<a><img src="https://i.imgur.com/MBl8cuI.jpg" alt="Tela" height="400"></a>
+<a><p align="center"><img src="https://i.imgur.com/MBl8cuI.jpg" alt="Tela" height="400"></a></p>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
