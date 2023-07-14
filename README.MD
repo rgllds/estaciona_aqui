@@ -105,7 +105,7 @@ Use o dump contido no arquivo ```login/cadastro```.
 <!-- LICENÇA -->
 ## Licença
 
-Distribuído sob uma "MIT License". Veja `LICENSE` para mais informações.
+Distribuído sob uma "GNU GENERAL PUBLIC LICENSE". Veja `LICENSE` para mais informações.
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
