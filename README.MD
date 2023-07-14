@@ -68,13 +68,13 @@ O ESTACIONA AQUI é um projeto de aplicação que se propõe a organizar o estac
 <!-- GETTING STARTED -->
 ### Pré-requisitos
 
-Instale os respectivos pacotes para executar o código!
+Instale os respectivos pacotes para executar o código:
 * pip
   ```sh
   pip install flask psycopg2
   ```
 Crie uma instância do postgres rodando com as configurações na linha :9 do arquivo ```login/main.py```
-Use o dump contido no arquivo ```login/cadastro```
+Use o dump contido no arquivo ```login/cadastro```.
 
 ### Instalação
 
@@ -83,9 +83,9 @@ Use o dump contido no arquivo ```login/cadastro```
    git clone https://github.com/rgllds/estaciona_aqui.git
    ```
 2. Executando:
-  ```sh
-  py login/main.py
-  ```
+   ```sh
+   py login/main.py
+   ```
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
