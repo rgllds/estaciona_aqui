@@ -47,11 +47,13 @@ O ESTACIONA AQUI é um projeto de aplicação que se propõe a organizar o estac
 
 
 ### Feito com:
+<p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
 
 
@@ -112,11 +114,13 @@ Distribuído sob uma "MIT License". Veja `LICENSE` para mais informações.
 ## Equipe
 Este foi um projeto desenvolvido pela equipe Terror do Trânsito, formada para a disciplina de Projeto I no semestre 2023.1 do curso de Sistemas e Mídias Digitais na Universidade Federal do Ceará. Abaixo, uma foto dos membros que compõem a equipe. Passe o mouse por cima de cada foto para ver o nome :)
 
+<p align="center">
 <img src="https://i.imgur.com/MRCrGvr.jpg" alt="Davi Girão de Sousa Barbosa Oliveira" height="100">
 <img src="https://i.imgur.com/8Nc2R2N.jpg" alt="Kelvin Erick Barros Rocha" height="100">
 <img src="https://i.imgur.com/E61H9Ak.jpg" alt="Larissa Santos Rodrigues" height="100">
 <img src="https://i.imgur.com/xY9BArg.jpg" alt="Pedro Arruda de Oliveira" height="100">
 <img src="https://i.imgur.com/5Y9Xcvl.jpg" alt="Rebeka Giovanna Leite Lima de Souza" height="100">
+</p>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
